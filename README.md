@@ -3,6 +3,7 @@
 Nome: Nicolas Krticka Bastos Bayao 
 
 🔹Biografia: Tenho 19 anos, moro em Brasília e estudo no CEUB. Tenho como atuais objetivos as areas de rede e ciberseguranca. 
+
 🔹Contato Email: nicolas.krticka@sempreceub.com
 
 GitHub: (https://github.com/nicolaskrticka) 
@@ -20,4 +21,5 @@ Implementacao de sistemas basicos de redes.
 Pynthon intermediario Banco de dados-básico (conhecimentos em DBdesing/BrModelo) 
 
 🔹Habilidades Pessoais: comunicação, trabalho em equipe, organização, proativo. 
+
 🔹Idiomas: Portugues-nivel fluente, Ingles-nivel intermediário , Espanhol-nivel Intermediario.
