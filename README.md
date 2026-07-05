@@ -5,13 +5,13 @@ SITE: https://nicolaskrticka.github.io/CurriculoKr/
 
 Nome: Nicolas Krticka Bastos Bayao 
 
-🔹Biografia: Tenho 19 anos, moro em Brasília e estudo no CEUB. Tenho como atuais objetivos as areas de rede e ciberseguranca. 
+🔹Biografia: Tenho 20 anos, moro em Brasília e estudo no CEUB. Tenho como atuais objetivos as areas de rede e ciberseguranca. 
 
 🔹Contato Email: nicolas.krticka@sempreceub.com
 
 GitHub: (https://github.com/nicolaskrticka) 
 
-🔹Formação Acadêmica Ciencia da computação – CEUB 2026 - 1º semestre
+🔹Formação Acadêmica Ciencia da computação – CEUB 2026 - 2º semestre
 
 Direito - Ceub - 3 semestres 
 
